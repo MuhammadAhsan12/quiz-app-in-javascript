@@ -1,0 +1,12 @@
+.award_icon {
+    font-size: 300px;
+    color: #fff;
+}
+
+.user_name,
+.user_points,
+.user_time {
+    color: #fff;
+    text-align: center;
+    margin-top: 15px;
+}
